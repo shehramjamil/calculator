@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        android:id="@+id/label"
+        style="@style/TextAppearance.AppCompat.Subhead"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enter_mathematical_expression" />
+
+    <EditText
+        android:layout_below="@+id/label"
+        android:id="@+id/input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text" />
+
+    <TextView
+        android:layout_below="@+id/input"
+        android:id="@+id/computed_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="1+1=2"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/computed_result"
+        android:text="@string/parse_expression"
+        android:id="@+id/parseExpression"
+        android:layout_marginTop="20dp">
+    </Button>
+    <Button
+        android:layout_toRightOf="@+id/parseExpression"
+        android:layout_toEndOf="@+id/parseExpression"
+        android:layout_below="@+id/computed_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/get_the_fibonacci_number"
+        android:id="@+id/getFibonacci"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"/>
+
+</RelativeLayout>

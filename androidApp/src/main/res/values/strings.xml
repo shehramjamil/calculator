@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Konan Calculator</string>
+    <string name="enter_mathematical_expression">Enter mathematical expression:</string>
+    <string name="enter_number_to_get_the_fibonacci_series_sum">Enter number to Get the Fibonacci Series Sum</string>
+    <string name="get_the_fibonacci_number">Get Fibonacci</string>
+    <string name="parse_expression">Evaluate Expression</string>
+    <string name="only_number">Only numbers are allowed for Fibonacci</string>
+
+</resources>
