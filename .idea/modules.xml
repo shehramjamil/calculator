@@ -10,7 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/arithmeticParser/arithmeticParser_iosTest.iml" filepath="$PROJECT_DIR$/arithmeticParser/arithmeticParser_iosTest.iml" group="arithmeticParser" />
       <module fileurl="file://$PROJECT_DIR$/arithmeticParser/arithmeticParser_jvmMain.iml" filepath="$PROJECT_DIR$/arithmeticParser/arithmeticParser_jvmMain.iml" group="arithmeticParser" />
       <module fileurl="file://$PROJECT_DIR$/arithmeticParser/arithmeticParser_jvmTest.iml" filepath="$PROJECT_DIR$/arithmeticParser/arithmeticParser_jvmTest.iml" group="arithmeticParser" />
-      <module fileurl="file://$PROJECT_DIR$/calculator.iml" filepath="$PROJECT_DIR$/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculatorTest.iml" filepath="$PROJECT_DIR$/calculatorTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/cliApp/cliApp.iml" filepath="$PROJECT_DIR$/cliApp/cliApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/cliApp/cliApp_jvmMain.iml" filepath="$PROJECT_DIR$/cliApp/cliApp_jvmMain.iml" group="cliApp" />
       <module fileurl="file://$PROJECT_DIR$/cliApp/cliApp_jvmTest.iml" filepath="$PROJECT_DIR$/cliApp/cliApp_jvmTest.iml" group="cliApp" />

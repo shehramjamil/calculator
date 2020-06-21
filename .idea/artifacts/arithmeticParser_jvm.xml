@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="arithmeticParser-jvm">
-    <output-path>C:\Users\Shami\Desktop\calculator\arithmeticParser\build\libs</output-path>
+    <output-path>C:\Users\Shami\Documents\calculatorTest\arithmeticParser\build\libs</output-path>
     <root id="archive" name="arithmeticParser-jvm.jar">
       <element id="module-output" name="arithmeticParser_jvmMain" />
     </root>
