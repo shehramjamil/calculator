@@ -9,7 +9,7 @@ package sample.calculator.arithmeticparser
 class Fibonacci(inputValue: String) {
 
     private var index = 1
-    private var inputNumber = 0
+    private var inputNumber = 0.0
     private var n1 = 0.0
     private var n2 = 1.0
     private var fibonacciSum = 0.0
@@ -17,7 +17,7 @@ class Fibonacci(inputValue: String) {
 
     init {
         try {
-            inputNumber = inputValue.toInt()
+            inputNumber = inputValue.toDouble()
         } catch (e: NumberFormatException) {
             isNumeric = false
         }
@@ -27,7 +27,7 @@ class Fibonacci(inputValue: String) {
 
         return if (!isNumeric)
             -1.0
-        else if (inputNumber == 1)
+        else if (inputNumber == 1.0)
         return 1.0
         else {
             while (index <= inputNumber-1) {
