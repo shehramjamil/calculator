@@ -28,9 +28,9 @@ class Fibonacci(inputValue: String) {
         return if (!isNumeric)
             -1.0
         else if (inputNumber == 1.0)
-        return 1.0
+            return 1.0
         else {
-            while (index <= inputNumber-1) {
+            while (index <= inputNumber - 1) {
                 fibonacciSum = n1 + n2
                 n1 = n2
                 n2 = fibonacciSum
@@ -39,8 +39,6 @@ class Fibonacci(inputValue: String) {
             fibonacciSum
         }
     }
-
-
     fun findFibonacciSeries() {
         TODO("For Displaying the Series If Needed")
     }

@@ -5,5 +5,4 @@
     <string name="get_the_fibonacci_number">Get Fibonacci</string>
     <string name="parse_expression">Evaluate Expression</string>
     <string name="only_number">Unable to Calculate Fibonacci</string>
-
 </resources>
