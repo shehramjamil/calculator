@@ -16,8 +16,13 @@ class FibonacciTest
         assertEquals(R.string.only_number, Fibonacci("@#$^").findFibonacciSum())
     }
     @Test
-    fun positiveInputTest()
+    fun smallPositiveNumberInputTest()
     {
         assertEquals("144.0", Fibonacci("12").findFibonacciSum())
+    }
+    @Test
+    fun bigNumberInputTest()
+    {
+        assertEquals("4.346655768693743E208", Fibonacci("1000").findFibonacciSum())
     }
 }
