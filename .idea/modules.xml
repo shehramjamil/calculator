@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/androidApp/androidApp.iml" filepath="$PROJECT_DIR$/androidApp/androidApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/arithmeticParser/arithmeticParser.iml" filepath="$PROJECT_DIR$/arithmeticParser/arithmeticParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidApp/androidApp.iml" filepath="$PROJECT_DIR$/androidApp/androidApp.iml" group="calculator/androidApp" />
+      <module fileurl="file://$PROJECT_DIR$/arithmeticParser/arithmeticParser.iml" filepath="$PROJECT_DIR$/arithmeticParser/arithmeticParser.iml" group="calculator/arithmeticParser" />
       <module fileurl="file://$PROJECT_DIR$/arithmeticParser/arithmeticParser_commonMain.iml" filepath="$PROJECT_DIR$/arithmeticParser/arithmeticParser_commonMain.iml" group="arithmeticParser" />
       <module fileurl="file://$PROJECT_DIR$/arithmeticParser/arithmeticParser_commonTest.iml" filepath="$PROJECT_DIR$/arithmeticParser/arithmeticParser_commonTest.iml" group="arithmeticParser" />
       <module fileurl="file://$PROJECT_DIR$/arithmeticParser/arithmeticParser_iosMain.iml" filepath="$PROJECT_DIR$/arithmeticParser/arithmeticParser_iosMain.iml" group="arithmeticParser" />
       <module fileurl="file://$PROJECT_DIR$/arithmeticParser/arithmeticParser_iosTest.iml" filepath="$PROJECT_DIR$/arithmeticParser/arithmeticParser_iosTest.iml" group="arithmeticParser" />
       <module fileurl="file://$PROJECT_DIR$/arithmeticParser/arithmeticParser_jvmMain.iml" filepath="$PROJECT_DIR$/arithmeticParser/arithmeticParser_jvmMain.iml" group="arithmeticParser" />
       <module fileurl="file://$PROJECT_DIR$/arithmeticParser/arithmeticParser_jvmTest.iml" filepath="$PROJECT_DIR$/arithmeticParser/arithmeticParser_jvmTest.iml" group="arithmeticParser" />
-      <module fileurl="file://$PROJECT_DIR$/calculatorTest.iml" filepath="$PROJECT_DIR$/calculatorTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cliApp/cliApp.iml" filepath="$PROJECT_DIR$/cliApp/cliApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/calculator.iml" group="calculator" />
+      <module fileurl="file://$PROJECT_DIR$/cliApp/cliApp.iml" filepath="$PROJECT_DIR$/cliApp/cliApp.iml" group="calculator/cliApp" />
       <module fileurl="file://$PROJECT_DIR$/cliApp/cliApp_jvmMain.iml" filepath="$PROJECT_DIR$/cliApp/cliApp_jvmMain.iml" group="cliApp" />
       <module fileurl="file://$PROJECT_DIR$/cliApp/cliApp_jvmTest.iml" filepath="$PROJECT_DIR$/cliApp/cliApp_jvmTest.iml" group="cliApp" />
     </modules>

@@ -6,7 +6,7 @@
 package sample.calculator.android
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.widget.EditText
 import android.widget.TextView
 import kotlinx.android.synthetic.main.activity_main.*

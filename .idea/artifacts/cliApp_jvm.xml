@@ -1,8 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="cliApp-jvm">
-    <output-path>C:\Users\Shami\Documents\calculatorTest\cliApp\build\libs</output-path>
-    <root id="archive" name="cliApp-jvm.jar">
-      <element id="module-output" name="cliApp_jvmMain" />
-    </root>
+    <output-path>C:\Users\Shami\Desktop\calculator\cliApp\build\libs</output-path>
+    <root id="archive" name="cliApp-jvm.jar" />
   </artifact>
 </component>

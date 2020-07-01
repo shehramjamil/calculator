@@ -1,0 +1,4 @@
+#Wed Jul 01 16:30:30 PDT 2020
+base.0=C\:\\Users\\Shami\\Desktop\\calculator\\androidApp\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
